@@ -46,6 +46,10 @@
 - Адаптивная вёрстка
 - JS
 
+### Ещё работы:
+- [Blanchard ]( https://l-y-t-o-b-o-r-m-a-x.github.io/Blanchard/)
+- [3D-Modeling-Courses ]( https://l-y-t-o-b-o-r-m-a-x.github.io/Blanchard/)
+- [Battleship ](  https://l-y-t-o-b-o-r-m-a-x.github.io/Battleship/)
+- [gulp-assembly ]( https://l-y-t-o-b-o-r-m-a-x.github.io/Blanchard/)
 
- [Ещё работы:]( https://l-y-t-o-b-o-r-m-a-x.github.io/Blanchard/)
 
