@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с онлайн школы Skillbox, где я и обучаюсь в настоящее время. Продолжаю углубленное изучение JavaScript и фреймворков. Нахожусь в поисках работы и интересных задач!
+Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с онлайн школы Skillbox, где я и обучаюсь в настоящее время. Продолжаю углубленное изучение JavaScript и фреймворков. Нахожусь в поисках работы и интересных задач!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-LutoborMax-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:emmanyil47@gmail.com)
 
