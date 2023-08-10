@@ -48,6 +48,7 @@
 
 ### Ещё работы:
 - [Blanchard ]( https://l-y-t-o-b-o-r-m-a-x.github.io/Blanchard/)
+- [Сafe 't Zeezotje ]( https://l-y-t-o-b-o-r-m-a-x.github.io/tzeezotjeDeploy/)
 - [3D-Modeling-Courses ]( https://l-y-t-o-b-o-r-m-a-x.github.io/3D-Modeling-Courses/)
 - [Battleship ](  https://l-y-t-o-b-o-r-m-a-x.github.io/Battleship/)
 - [Todolist ](  https://l-y-t-o-b-o-r-m-a-x.github.io/Todolist/)
